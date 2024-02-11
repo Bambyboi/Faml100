@@ -304,6 +304,14 @@ h2{
     margin-left: 25%;
     margin-top: 1em;
    }
+   .areas-of-focus p {
+    color: #666;
+    font-size: 2em;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 1em;
+    text-align: left;
+}
 }
 /*---------------------------------------------------------------------This is for the 2 columns and 9 rows*/
 .container {
