@@ -229,7 +229,8 @@ h2{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 5px 43%;
+  /*  margin: 5px 43%;*/
+     margin-left: 45%;
     transition-duration: 0.4s;
     cursor: pointer;
     
@@ -274,6 +275,7 @@ h2{
     display: flex;
     margin-bottom: 10px;
 }
+
 
 .column {
     flex: 1; /* This will make each column take up an equal amount of space */

@@ -235,7 +235,9 @@ h2{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 5px 43%;
+   /* margin: 5px 43%;*/
+   margin-left: 45%;
+   margin-bottom: 1em;
     transition-duration: 0.4s;
     cursor: pointer;
     
