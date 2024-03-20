@@ -283,7 +283,9 @@ h2{
 
   }
   
-
+p, h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
 @media screen and (max-width: 600px) {
     .navbar a {
         display: block;
